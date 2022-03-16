@@ -1,3 +1,3 @@
 # Crypto tax calculator
 
-This project has my new cryptocurrency platform's code
+This project has Minify Tax's new cryptocurrency calculator application's code
